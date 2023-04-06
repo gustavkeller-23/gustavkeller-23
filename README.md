@@ -5,11 +5,15 @@
   
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustav.keller.587/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#sent?compose=GTvVlcRwRQMVMsbNmshmtbfRFKCpnhZTLjhktjqzWfqnZKJKSSKNlThlVzPTkTMNDhBzlGgBlVrxC) [![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustav-keller-164674271/)
 
-## Carreira
+## Curiosidades
+ -  Cursando ciência da computação na UENP (2023-)
+ -  Estudando novos idiomas.
+ -  Quero aprender mais sobre tecnologia.
+ -  Sempre busco ser comunicativo.
+ -  Meu currículo.
 
 ## Tenho dominío Total
 
 ## Tenho pouco domínio 
 
-## Curiosidades
 
