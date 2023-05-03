@@ -12,8 +12,8 @@
  -  Sempre busco ser comunicativo.
  -  Meu currículo.
 
-## Tenho dominío Total
-
-## Tenho pouco domínio 
+## Tenho Dominío 
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]
+## Tenho Pouco Domínio 
 
 
