@@ -10,7 +10,6 @@
  -  Estudando novos idiomas.
  -  Quero aprender mais sobre tecnologia.
  -  Sempre busco ser comunicativo.
- -  Meu currículo.
 
 ## Tenho Dominío 
 ![HTML](	https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
