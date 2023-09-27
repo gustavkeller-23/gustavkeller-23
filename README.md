@@ -11,3 +11,11 @@
  -  Quero aprender mais sobre tecnologia.
  -  Sempre busco ser comunicativo.
 
+## Conhecimentos
+- Inglês Intermediário
+- Espanhol Iniciante
+
+<img src="https://github.com/gustavkeller-23/gustavkeller-23/assets/124906037/37613a57-e3e6-4734-8b89-d81b09497f32" width="45" height="50">
+<img src="https://github.com/gustavkeller-23/gustavkeller-23/assets/124906037/42d77fbb-13f6-45bc-8c33-9aa999810160" width="50" height="50">
+<img src="https://github.com/gustavkeller-23/gustavkeller-23/assets/124906037/fbf1891f-8a69-42ee-9911-6f4607f822a2" width="45" height="50">
+<img src="https://github.com/gustavkeller-23/gustavkeller-23/assets/124906037/c655fcb8-b65a-44b6-99c1-9d0577f16a2f" width="50" height="50">
