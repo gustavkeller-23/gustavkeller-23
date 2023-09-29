@@ -7,6 +7,7 @@
 
 ## Curiosidades
  -  Cursando ciência da computação na UENP (2023-)
+ -  Participação no Projeto de Extensão ABACADA
  -  Cursando Alura (2023-)
  -  Estudando novos idiomas.
  -  Quero aprender mais sobre tecnologia.
