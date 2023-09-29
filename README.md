@@ -7,12 +7,13 @@
 
 ## Curiosidades
  -  Cursando ciência da computação na UENP (2023-)
+ -  Cursando Alura (2023-)
  -  Estudando novos idiomas.
  -  Quero aprender mais sobre tecnologia.
  -  Sempre busco ser comunicativo.
 
 ## Conhecimentos
-- Inglês Intermediário
+- Inglês Iniciante
 - Espanhol Iniciante
 
 <img src="https://github.com/gustavkeller-23/gustavkeller-23/assets/124906037/37613a57-e3e6-4734-8b89-d81b09497f32" width="45" height="50">
