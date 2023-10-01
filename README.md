@@ -10,7 +10,7 @@
  -  Participação no Projeto de Extensão ABACADA
  -  Cursando Alura (2023-)
  -  Estudando novos idiomas.
- -  Quero aprender mais sobre tecnologia.
+ -  Quero obter mais conhecimento sobre tecnologia
  -  Sempre busco ser comunicativo.
 
 ## Conhecimentos
