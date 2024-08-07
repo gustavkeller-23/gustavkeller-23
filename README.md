@@ -21,3 +21,4 @@
 <img src="https://github.com/gustavkeller-23/gustavkeller-23/assets/124906037/fbf1891f-8a69-42ee-9911-6f4607f822a2" width="45" height="50">
 <img src="https://github.com/gustavkeller-23/gustavkeller-23/assets/124906037/c655fcb8-b65a-44b6-99c1-9d0577f16a2f" width="50" height="50">
 <img src="https://github.com/gustavkeller-23/gustavkeller-23/assets/124906037/f361ee5c-ff5e-4383-80c6-6a8edfcedf9c" width="50" height="50">
+<img src="https://github.com/user-attachments/assets/eff7970b-8d00-4ec4-81c1-f2d342b6e29e" width="50" height="50">
